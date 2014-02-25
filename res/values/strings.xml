@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="AppName">Location</string>
+    <string name="unknown">unknown</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="provider">Provider:</string>
+
+</resources>
